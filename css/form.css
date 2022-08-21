@@ -1,0 +1,104 @@
+body{
+    background-image: url("/images/PhoneViewbackground.png");   
+    
+    
+}
+
+h3{
+    color: white;
+    text-align: center;
+}
+h5{
+    color: white;
+    text-align: center;
+}
+.formMainPage{
+    
+    background-image: url("/images/PhoneViewbackground.png");  
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 100vh; 
+    color:gray;    
+}
+
+.col-md-4{
+    border-style: solid;
+    border-radius: 4px;
+    /* border-color: linear-gradient(165.48deg, #000121 0%, #000356 100%); */
+    border-color: #06A5FF;
+}
+.col-md-6{
+    border-style: solid;
+    border-radius: 4px;
+    /* border-color: linear-gradient(165.48deg, #000121 0%, #000356 100%); */
+    border-color: #06A5FF;
+}
+.form-control {
+    margin-bottom: 6px;
+
+}
+.form-select {
+    margin-bottom: 6px;
+}
+.formCheck{
+    border-style: none;
+
+}
+
+
+input[type=text]{
+   
+    color: white;
+    background-color: transparent;
+    border-style: none;
+    
+}
+select{
+   
+    color:transparent;
+    background-color: transparent;
+    border-style: none;
+    
+}
+input[type='checkbox'] {
+    accent-color:#54c72b;
+    
+}
+
+.fn{
+    border-style: none;
+}
+
+
+.valid-feedback{
+    color: yellowgreen;
+}
+
+#validationCustom03 {
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+#validationCustom04{
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+#validationCustom05{
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+#validationCustom07{
+    background-color: transparent;
+    border: none; 
+    color: white;
+}
+
+option{
+    background-color: transparent;
+    color: blue;
+}
+

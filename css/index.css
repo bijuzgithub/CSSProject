@@ -1,0 +1,46 @@
+
+button{
+    position:absolute;
+    bottom: 5%;
+    right: 10%;
+    left:10%;
+    /* right:20%; */
+} 
+
+.mainPage {
+    background-image: url('/images/PhoneView.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 100vh;   
+} 
+
+.brandLogo{
+    position: relative;
+    margin-top: 40px;
+    right: 10%;
+    left:1%;
+    
+}
+.nextGen{
+    position: relative;
+    margin-top: 90px;
+    right: 10%;
+    left:5%;
+    width: 85%;
+}
+
+.trainTrackEvaluate {
+    position:absolute;
+    bottom: 12%;
+    right: 10%;
+    left:5%;
+    width: 85%;
+}
+
+.btn{
+    position:absolute;
+    bottom: 5%;
+    right: 10%;
+    left:10%;
+}
